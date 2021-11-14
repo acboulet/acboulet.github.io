@@ -2,40 +2,35 @@
 
 I am a passionate researcher with an M.Sc. in Biochemistry, and over ten years’ experience in academic and industry research facilities. 
 
-From an early age, I've always loved solving puzzles. Science became the perfect outlet for that curiousity. I've since worked on developing clinical diagnostic tests, mapping protein-protein interaction changes in metabolic diseases, and characterizing mouse models of human genetic diseases. This work has led to international recognition and publications.
+From an early age, I've always loved solving puzzles. Science became the perfect outlet for that curiousity. I've since worked on developing clinical diagnostic tests, mapping protein-protein interaction changes in metabolic diseases, and characterizing mouse models of human genetic diseases. This work has led to international recognition and publications. 
 
 I am currently responsible the designing and carrying-out a wide range of sequencing projects. This includes advising on the overall approach, carrying out the bench-work, and running/maintaining the sequencing equipment itself.
 
+I taught myself Python using online courses, and started using programming as way to analyze large datasets. Using pandas, matplotlib, and plotly gave me an amazing variety of tools to process and present my data. As I learnt more Python, I found a new love from programming. It reminded me of building with LEGO where each block is a piece of code. The goal being to build something complex that works together.
+
+It's been about 5 years since I started learning Python. I have built my own small projects, and websites. I have also been taking University level courses in my spare-time. These have included bioinformatics, data structures, artificial intelligence, and machine learning. I love learning new skills that can benefit me both personally, and professionally. 
+
+Below are a list of some of the interesting personal and professional coding projects that I am working on.
+
+### RNA-seq data pipeline for Next-Generation Sequencing Facility
+placeholder for intro
+
+[Branch containing RNA-seq pipeline](https://github.com/ngsf-usask/dex/tree/pipe_generation)
+
+### Primer design for site-directed mutagenesis of any gene
+placeholder for intro
+
+placeholder for picture
 
 
-### Markdown
+### Match-3 command line game to synthesize a gene
+placeholder for intro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+placeholder for picture
 
-```markdown
-Syntax highlighted code block
+### Advent calendar challenges
+placeholder for intro
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acboulet/acboulet.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Python-2019](https://github.com/acboulet/Advent_2019)
+[Python-2020](https://github.com/acboulet/advent2020_py)
+[Java-2020](https://github.com/acboulet/advent2020_java)
