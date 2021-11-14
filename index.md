@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## GitHub projects for Aren Boulet
 
-You can use the [editor on GitHub](https://github.com/acboulet/acboulet.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a passionate researcher with an M.Sc. in Biochemistry, and over ten years’ experience in academic and industry research facilities. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From an early age, I've always loved solving puzzles. Science became the perfect outlet for that curiousity. I've since worked on developing clinical diagnostic tests, mapping protein-protein interaction changes in metabolic diseases, and characterizing mouse models of human genetic diseases. This work has led to international recognition and publications.
+
+I am currently responsible the designing and carrying-out a wide range of sequencing projects. This includes advising on the overall approach, carrying out the bench-work, and running/maintaining the sequencing equipment itself.
+
+
 
 ### Markdown
 
