@@ -16,9 +16,9 @@ placeholder for intro
 ### Primer design for site-directed mutagenesis of any gene
 Website coded using Python (Dash, Pandas, Plotly, Biopython). Recursively calculates all primers that match design guidelines for modification of nucleotides in a provided gene.
 [Interactive primer design](https://acbfolio.herokuapp.com/app3)
-placeholder for intro
 
-placeholder for picture
+Example in use:
+![primer example](primer_design.jpg)
 
 
 ### Match-3 command line game to synthesize a gene
