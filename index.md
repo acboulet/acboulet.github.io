@@ -17,6 +17,8 @@ placeholder for intro
 Website coded using Python (Dash, Pandas, Plotly, Biopython). Recursively calculates all primers that match design guidelines for modification of nucleotides in a provided gene.
 [Interactive primer design](https://acbfolio.herokuapp.com/app3)
 
+In the future I plan to add ability to recognize gene IDs and directly import, as well as user control over design guidelines.
+
 Example in use:
 ![primer example](primer_design.jpg)
 
