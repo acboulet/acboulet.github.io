@@ -1,5 +1,3 @@
-## GitHub projects for Aren Boulet
-
 I am a passionate learner with an M.Sc. in Biochemistry, and over extensive experience in academic and industry research facilities. 
 
 I became proficient with Python using online courses, and started using programming as way to analyze large datasets. As I learnt more Python, I found a new love from programming. It reminded me of building with LEGO where each block is a piece of code. The goal being to build something complex that works together.
@@ -27,7 +25,7 @@ I built a simple game where the goal was to switch nucleotides (A, T, C, G) with
 
 In the future I plan to add a GUI interface, give users the option to provide genes, and track a leaderboard.
 
-![match3_example](codon_selection_edit.jpg)
+![match3_example](codon_selection_edit_2.jpg)
 
 ### Advent calendar challenges
 As I am learning to code, I am always looking for new challenges. [Advent of Code](adventofcode.com) provides daily challenges in December (and remains posted afterwards) for people to solve. They also have a supportive community to help provide feedback and show the best answers for any giving problem. This is an incredible resource to practice  my skills, especially when learning a new language.
