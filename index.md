@@ -1,15 +1,15 @@
 ## GitHub projects for Aren Boulet
 
-I am a passionate learner with an M.Sc. in Biochemistry, and over ten years’ experience in academic and industry research facilities. 
+I am a passionate learner with an M.Sc. in Biochemistry, and over extensive experience in academic and industry research facilities. 
 
-I taught myself Python using online courses, and started using programming as way to analyze large datasets. Using pandas, matplotlib, and plotly gave me an amazing variety of tools to process and present my data. As I learnt more Python, I found a new love from programming. It reminded me of building with LEGO where each block is a piece of code. The goal being to build something complex that works together.
+I became proficient with Python using online courses, and started using programming as way to analyze large datasets. As I learnt more Python, I found a new love from programming. It reminded me of building with LEGO where each block is a piece of code. The goal being to build something complex that works together.
 
-It's been about 5 years since I started learning Python. I have built my own small projects, and websites. I have also been taking University level courses in my spare-time. These have included bioinformatics, data structures, and machine learning. 
+ I have built my own small projects, and websites. I have taken University level courses in my spare-time, including bioinformatics, data structures, and machine learning (2022). 
 
-I can code in Python, Linux, Java, HTML, CSS, or Javascript and hope to add more to this list in the future. Below are some of my interesting projects
+I now code in Python, Linux, Java, HTML, CSS, and Javascript and hope to add more to this list in the future. Below are some of my interesting projects
 
 ### RNA-seq data pipeline for Next-Generation Sequencing Facility
-placeholder for intro
+Currently constructing a RNA-seq pipeline to process raw sequencing data on HPC cluster (slurm), and return enrichment results of specific genes based on sample treatment. The pipeline is controlled by a Python script that calls Shell scripts onto HPC nodes to process data using fastp, multiqc, STAR, htseq, and deseq2 (R programming language). 
 
 [Branch containing RNA-seq pipeline](https://github.com/ngsf-usask/dex/tree/pipe_generation)
 
@@ -19,7 +19,6 @@ Website coded using Python (Dash, Pandas, Plotly, Biopython). Recursively calcul
 
 In the future I plan to add ability to recognize gene IDs and directly import, as well as user control over design guidelines.
 
-Example in use:
 ![primer example](primer_design.jpg)
 
 
@@ -28,7 +27,6 @@ I built a simple game where the goal was to switch nucleotides (A, T, C, G) with
 
 In the future I plan to add a GUI interface, give users the option to provide genes, and track a leaderboard.
 
-Example in use:
 ![match3_example](codon_selection.JPG)
 
 ### Advent calendar challenges
